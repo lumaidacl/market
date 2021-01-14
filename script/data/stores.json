@@ -1,0 +1,18 @@
+[
+    {
+        "address": "1455 Market St, San Francisco, CA 94103, United States",
+        "close": 18,
+        "name": "Kayena",
+        "open": 10,
+        "phone": "+14157030995",
+        "thumbnailRef": "/stores/a.jpg"
+    },
+    {
+        "address": "Steiner St &, Hayes St, San Francisco, CA 94117, United States",
+        "close": 18,
+        "name": "Monaco 10",
+        "open": 10,
+        "phone": "+14152180259",
+        "thumbnailRef": "/stores/b.jpg"
+    }
+]
